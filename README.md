@@ -6,8 +6,8 @@
 Полезные ссылки
 ======
 * https://www.qt.io/product/development-tools - Qt
-* repl.it - Здесь можно проверять написанный код
-* python.org - отсюда можно скачать Python
+* http://repl.it - Здесь можно проверять написанный код
+* http://python.org - отсюда можно скачать Python
 
 Ресурсы
 ======
